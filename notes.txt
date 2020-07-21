@@ -1,0 +1,1 @@
+recipe component should be rendered when the app loads, then it should go after clickeing on the image
