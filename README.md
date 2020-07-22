@@ -1,3 +1,7 @@
+## App summary
+
+This is a simple web application that enable the user to search through their desired recipes. The application uses Edamam api to fetch all of the availabe recipes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
